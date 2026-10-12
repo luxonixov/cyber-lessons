@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
+title: "Cyber Lessons 🛡️"
+description: "Интерактивные уроки по пентесту и сетевой безопасности"
+show_downloads: false
+
